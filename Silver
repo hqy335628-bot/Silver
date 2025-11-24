@@ -6,8 +6,14 @@
         "Allowoffline": true
     },
     {
+        "device_id": "",
+        "key": "",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+ {
         "device_id": "1c22f7fb1ed3f4d2",
-        "key": "tervix",
+        "key": "GTK",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
