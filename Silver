@@ -22,5 +22,12 @@
         "key": "YT",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+   },
+{
+        "device_id": "1c22f7fb1ed3f4d2",
+        "key": "Tervix",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
-]
+]   
