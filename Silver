@@ -34,6 +34,12 @@
         "key": "1month",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "2fb5e9993a151596",
+        "key": "1month2",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 
 ]   
