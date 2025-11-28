@@ -38,8 +38,13 @@
 {
         "device_id": "2fb5e9993a151596",
         "key": "1month2",
-        "expirydate": "15-06-2026",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
+    },
+{
+        "device_id": "8257197d2d4d1f94",
+        "key": "1month3",
+        "expirydate": "15-12-2025",
         "Allowoffline": false
     }
-
 ]   
