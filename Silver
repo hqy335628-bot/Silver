@@ -47,4 +47,10 @@
         "expirydate": "15-12-2025",
         "Allowoffline": false
     }
+{
+        "device_id": "8bf7f2196bae27c8",
+        "key": "7day",
+        "expirydate": "07-12-2025",
+        "Allowoffline": false
+    }
 ]   
