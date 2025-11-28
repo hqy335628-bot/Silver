@@ -28,5 +28,12 @@
         "key": "Tervix",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "007e4df2eabd619e",
+        "key": "1month",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
+
 ]   
