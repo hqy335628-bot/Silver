@@ -58,6 +58,12 @@
         "key": "1day",
         "expirydate": "30-11-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "0c529718c99428e3",
+        "key": "AirAmir",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
     }
 
 ]   
