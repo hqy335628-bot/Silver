@@ -70,6 +70,12 @@
         "key": "Koni",
         "expirydate": "29-12-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "86e076974dc221e0",
+        "key": "Mmd1",
+        "expirydate": "29-12-2025",
+        "Allowoffline": false
     }
 
 ]   
