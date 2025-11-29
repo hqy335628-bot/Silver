@@ -64,6 +64,12 @@
         "key": "AirAmir",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "5a21148706845dcf",
+        "key": "Koni",
+        "expirydate": "29-12-2025",
+        "Allowoffline": false
     }
 
 ]   
