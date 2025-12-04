@@ -76,6 +76,13 @@
         "key": "Mmd1",
         "expirydate": "29-12-2025",
         "Allowoffline": false
+    },
+
+{
+        "device_id": "dcf37229aa089461",
+        "key": "Afg",
+        "expirydate": "29-12-2026",
+        "Allowoffline": false
     }
 
 ]   
