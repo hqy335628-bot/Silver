@@ -83,6 +83,12 @@
         "key": "Afg",
         "expirydate": "29-12-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "11212a6d1f5dfed4",
+        "key": "Ali",
+        "expirydate": "29-12-2026",
+        "Allowoffline": false
     }
 
 ]   
