@@ -89,6 +89,12 @@
         "key": "Ali",
         "expirydate": "29-12-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "50e7db576a06f3c0",
+        "key": "Tipi",
+        "expirydate": "29-12-2025",
+        "Allowoffline": false
     }
 
 ]   
