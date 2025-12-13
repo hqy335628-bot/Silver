@@ -95,6 +95,12 @@
         "key": "Tipi",
         "expirydate": "29-12-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "49c1855de14ee648",
+        "key": "Ehsan",
+        "expirydate": "29-12-2026",
+        "Allowoffline": false
     }
 
 ]   
