@@ -101,6 +101,12 @@
         "key": "Ehsan",
         "expirydate": "29-12-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "f01a84af5301daac",
+        "key": "AmirJon",
+        "expirydate": "29-12-2026",
+        "Allowoffline": false
     }
 
 ]   
