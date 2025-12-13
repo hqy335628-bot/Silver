@@ -107,6 +107,12 @@
         "key": "Amirjon",
         "expirydate": "29-12-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "36dea0ec34a8b631",
+        "key": "umsbwak",
+        "expirydate": "29-12-2025",
+        "Allowoffline": false
     }
 
 ]   
