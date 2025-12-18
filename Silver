@@ -113,6 +113,12 @@
         "key": "umsbwak",
         "expirydate": "29-12-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "30050b03c683ad81",
+        "key": "30day",
+        "expirydate": "29-12-2025",
+        "Allowoffline": false
     }
 
 ]   
