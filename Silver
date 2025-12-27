@@ -119,6 +119,12 @@
         "key": "30day",
         "expirydate": "29-12-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "09d25925b8cc25ee",
+        "key": "Lvl",
+        "expirydate": "29-12-2027",
+        "Allowoffline": false
     }
 
 ]   
