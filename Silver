@@ -125,6 +125,12 @@
         "key": "Lvl",
         "expirydate": "29-12-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "1249601e50621870",
+        "key": "1mon",
+        "expirydate": "29-12-2027",
+        "Allowoffline": false
     }
 
 ]   
