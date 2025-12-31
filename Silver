@@ -131,6 +131,12 @@
         "key": "1mon",
         "expirydate": "29-12-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "b39b1159f8dd0a99",
+        "key": "1mon2",
+        "expirydate": "29-12-2027",
+        "Allowoffline": false
     }
 
 ]   
