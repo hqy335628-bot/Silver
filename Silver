@@ -137,6 +137,12 @@
         "key": "1mon2",
         "expirydate": "29-12-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "402cf25f32dcfbaf",
+        "key": "Rt_Pw",
+        "expirydate": "29-12-2027",
+        "Allowoffline": false
     }
 
 ]   
