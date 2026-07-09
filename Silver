@@ -143,6 +143,12 @@
         "key": "Rt_Pw",
         "expirydate": "29-12-2027",
         "Allowoffline": false
-    }
+    },
+{
+        "device_id": "1c22f7fb1ed3f4d2",
+        "key": "silver",
+        "expirydate": "31-12-2035",
+        "Allowoffline": true
+    },
 
 ]   
