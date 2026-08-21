@@ -150,5 +150,11 @@
         "expirydate": "31-12-2035",
         "Allowoffline": true
     },
+{
+        "device_id": "d205d337e2c240be",
+        "key": "SILVERYT",
+        "expirydate": "31-12-2035",
+        "Allowoffline": true
+    },
 
 ]   
