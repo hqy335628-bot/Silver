@@ -6,10 +6,10 @@
     "allowed_devices": [d205d337e2c240be]
   },
   {
-    "licence": "RAiDER",
+    "licence": "Silver",
     "expire": "2027/03/02",
-    "max_devices": "",
-    "allowed_devices": [""]
+    "max_devices": "1",
+    "allowed_devices": ["d205d337e2c240be"]
   },
   {
     "licence": "FAMILY_3_USER",
