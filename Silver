@@ -1,160 +1,20 @@
 [
-    {
-        "device_id": "1c22f7fb1ed3f4d2",
-        "key": "silver",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "vjgu",
-        "key": "kk",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "1c22f7fb1ed3f4d2",
-        "key": "tervix",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-{
-        "device_id": "62f459baa5e2ad62",
-        "key": "YT",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "1c22f7fb1ed3f4d2",
-        "key": "Tervix",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "007e4df2eabd619e",
-        "key": "1month",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "2fb5e9993a151596",
-        "key": "1month2",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "8257197d2d4d1f94",
-        "key": "1month3",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "8bf7f2196bae27c8",
-        "key": "xcxc",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "11212a6d1f5dfed4",
-        "key": "Chgcvgffff",
-        "expirydate": "30-11-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "0c529718c99428e3",
-        "key": "AirAmir",
-        "expirydate": "30-12-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "5a21148706845dcf",
-        "key": "Koni",
-        "expirydate": "29-12-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "86e076974dc221e0",
-        "key": "Mmd1",
-        "expirydate": "29-12-2025",
-        "Allowoffline": false
-    },
-
-{
-        "device_id": "dcf37229aa089461",
-        "key": "Afg",
-        "expirydate": "29-12-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "11212a6d1f5dfed4",
-        "key": "Ali",
-        "expirydate": "29-12-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "50e7db576a06f3c0",
-        "key": "Tipi",
-        "expirydate": "29-12-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "49c1855de14ee648",
-        "key": "Ehsan",
-        "expirydate": "29-12-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "f01a84af5301daac",
-        "key": "Amirjon",
-        "expirydate": "29-12-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "36dea0ec34a8b631",
-        "key": "umsbwak",
-        "expirydate": "29-12-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "30050b03c683ad81",
-        "key": "30day",
-        "expirydate": "29-12-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "09d25925b8cc25ee",
-        "key": "Lvl",
-        "expirydate": "29-12-2027",
-        "Allowoffline": false
-    },
-{
-        "device_id": "1249601e50621870",
-        "key": "1mon",
-        "expirydate": "29-12-2027",
-        "Allowoffline": false
-    },
-{
-        "device_id": "b39b1159f8dd0a99",
-        "key": "1mon2",
-        "expirydate": "29-12-2027",
-        "Allowoffline": false
-    },
-{
-        "device_id": "402cf25f32dcfbaf",
-        "key": "Rt_Pw",
-        "expirydate": "29-12-2027",
-        "Allowoffline": false
-    },
-{
-        "device_id": "1c22f7fb1ed3f4d2",
-        "key": "silver",
-        "expirydate": "31-12-2035",
-        "Allowoffline": true
-    },
-{
-        "device_id": "d205d337e2c240be",
-        "key": "SILVERYT",
-        "expirydate": "31-12-2035",
-        "Allowoffline": true
-    },
-
-]   
+  {
+    "licence": "UNLIMITED_USER",
+    "expire": "2027/03/02",
+    "max_devices": "MMDSILVER",
+    "allowed_devices": [d205d337e2c240be]
+  },
+  {
+    "licence": "RAiDER",
+    "expire": "2027/03/02",
+    "max_devices": "",
+    "allowed_devices": [""]
+  },
+  {
+    "licence": "FAMILY_3_USER",
+    "expire": "2027/03/02",
+    "max_devices": "3",
+    "allowed_devices": ["", ""]
+  }
+]
