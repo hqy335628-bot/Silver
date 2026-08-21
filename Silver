@@ -1,9 +1,9 @@
 [
   {
-    "licence": "UNLIMITED_USER",
+    "licence": "mmdsilver",
     "expire": "2027/03/02",
     "max_devices": "d205d337e2c240be",
-    "allowed_devices": [1]
+    "allowed_devices": [d205d337e2c240be]
   },
   {
     "licence": "RAiDER",
