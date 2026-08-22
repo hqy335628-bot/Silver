@@ -4,7 +4,7 @@
     "licence": "UNLIMITED_USER",
     "expire": "2027/03/02",
     "max_devices": "1",
-    "allowed_devices": [d205d337e2c240be]
+    "allowed_devices": []
   },
   {
     "licence": "RAiDER",
@@ -13,9 +13,9 @@
     "allowed_devices": ["8f2a1b90c34e5678"]
   },
   {
-    "licence": "FAMILY_3_USER",
+    "licence": "SILVER_1_USER",
     "expire": "2027/03/02",
     "max_devices": "3",
-    "allowed_devices": ["d205d337e2c240be", "7a1b90c34e567812"]
+    "allowed_devices": ["0b4ef60a40e2c492", "7a1b90c34e567812"]
   }
 ]
