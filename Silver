@@ -10,7 +10,7 @@
     "licence": "RAiDER",
     "expire": "2027/03/02",
     "max_devices": "1",
-    "allowed_devices": ["8f2a1b90c34e5678"]
+    "allowed_devices": ["8c3afa360522ddea"]
   },
   {
     "licence": "PANEL_1_USER",
