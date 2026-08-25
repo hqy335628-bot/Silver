@@ -17,5 +17,11 @@
     "expire": "2027/03/02",
     "max_devices": "1",
     "allowed_devices": ["6073bda36911c4c7"]
+  },
+{
+    "licence": "PANEL_11_USER",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["0efeb41ea246a49c"]
   }
 ]
