@@ -37,16 +37,17 @@
     "max_devices": "1",
     "allowed_devices": ["2cc1a7bf9e02c656"]
   },
-{
-    "licence": " moucsae",
-    "expire": "2027/03/02",
-    "max_devices": "1",
-    "allowed_devices": ["6371eb0d154c137b"]
-  },
+
 {
     "licence": "Nyrqox",
     "expire": "2027/03/02",
     "max_devices": "1",
     "allowed_devices": ["a6994c018470314b"]
+  },
+{
+    "licence": " moucsae",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["6371eb0d154c137b"]
   },
 ]
