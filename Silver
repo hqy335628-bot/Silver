@@ -32,7 +32,7 @@
   },
 
 {
-    "licence": " mmdhsn",
+    "licence": " HAINES",
     "expire": "2027/03/02",
     "max_devices": "1",
     "allowed_devices": ["64e2626df9d315ba"]
@@ -52,13 +52,13 @@
   }, 
 
 {
-    "licence": " APOI",
+    "licence": " ",
     "expire": "2027/03/02",
     "max_devices": "1",
-    "allowed_devices": ["e73f77493f491e13"]
+    "allowed_devices": [""]
   }, 
 {
-    "licence": "MMD",
+    "licence": "Amir_zekoo",
     "expire": "2027/03/02",
     "max_devices": "1",
     "allowed_devices": ["e73f77493f491e13"]
