@@ -58,9 +58,9 @@
     "allowed_devices": ["e73f77493f491e13"]
   }, 
 {
-    "licence": " ",
+    "licence": "MMD",
     "expire": "2027/03/02",
     "max_devices": "1",
-    "allowed_devices": [""]
+    "allowed_devices": ["e73f77493f491e13"]
   },
 ]
