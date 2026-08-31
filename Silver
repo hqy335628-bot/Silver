@@ -32,10 +32,10 @@
   },
 
 {
-    "licence": " HAINES",
+    "licence": " ",
     "expire": "2027/03/02",
     "max_devices": "1",
-    "allowed_devices": ["64e2626df9d315ba"]
+    "allowed_devices": [""]
   },
 
 {
@@ -64,9 +64,9 @@
     "allowed_devices": ["e73f77493f491e13"]
   },
 {
-    "licence": "silver",
+    "licence": "HAINES",
     "expire": "2027/03/02",
     "max_devices": "1",
-    "allowed_devices": ["0efeb41ea246a49c"]
+    "allowed_devices": ["64e2626df9d315ba"]
   },
 ]
