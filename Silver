@@ -50,4 +50,10 @@
     "max_devices": "1",
     "allowed_devices": ["6371eb0d154c137b"]
   },
+{
+    "licence": " HSN",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["64e2626df9d315ba"]
+  },
 ]
