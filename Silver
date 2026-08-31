@@ -51,4 +51,10 @@
     "allowed_devices": ["6371eb0d154c137b"]
   }, 
 
+{
+    "licence": " APOI",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["e73f77493f491e13"]
+  }, 
 ]
