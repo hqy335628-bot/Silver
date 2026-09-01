@@ -81,4 +81,10 @@
     "max_devices": "1",
     "allowed_devices": ["7ae6079f661b1978"]
   },
+{
+    "licence": "sss_uoser",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["6371eb0d154c137b"]
+  },
 ]
