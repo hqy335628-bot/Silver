@@ -69,4 +69,10 @@
     "max_devices": "1",
     "allowed_devices": ["64e2626df9d315ba"]
   },
+{
+    "licence": "AhMaD",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["9970fb860efc431c"]
+  },
 ]
