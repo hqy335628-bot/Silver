@@ -99,4 +99,10 @@
     "max_devices": "1",
     "allowed_devices": ["bb5c6bdb0335ec6b"]
   },
+{
+    "licence": "AmirZx",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["7c033d131e62b120"]
+  },
 ]
