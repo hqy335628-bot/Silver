@@ -105,4 +105,10 @@
     "max_devices": "1",
     "allowed_devices": ["7c033d131e62b120"]
   },
+{
+    "licence": "Silver",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["2cc1a7bf9e02c656"]
+  },
 ]
