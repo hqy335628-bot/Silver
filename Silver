@@ -117,4 +117,10 @@
     "max_devices": "1",
     "allowed_devices": ["2764d16e8beeb736"]
   },
+{
+    "licence": "مهرسام",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["011c4021522d5536"]
+  },
 ]
