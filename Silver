@@ -111,4 +111,10 @@
     "max_devices": "1",
     "allowed_devices": ["2cc1a7bf9e02c656"]
   },
+{
+    "licence": "Amir",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["2764d16e8beeb736"]
+  },
 ]
