@@ -1,7 +1,21 @@
-]
-{
+
+[
+  {
     "licence": "SILVER",
     "expire": "2027/03/02",
-    "max_devices": "1",
-    "allowed_devices": ["41215e84d32b36e1"]
+    "max_devices": "all",
+    "allowed_devices": [41215e84d32b36e1]
   },
+  {
+    "licence": "RAiDER",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["8f2a1b90c34e5678"]
+  },
+  {
+    "licence": "FAMILY_3_USER",
+    "expire": "2027/03/02",
+    "max_devices": "3",
+    "allowed_devices": ["8f2a1b90c34e5678", "7a1b90c34e567812"]
+  }
+]
