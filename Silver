@@ -136,4 +136,10 @@
     "max_devices": "1",
     "allowed_devices": ["41215e84d32b36e1"]
   },
+{
+    "licence": "MMDGH",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["41215e84d32b36e1"]
+  },
 ]
