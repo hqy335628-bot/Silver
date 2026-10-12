@@ -1,10 +1,10 @@
 
 [
   {
-    "licence": "SILVER",
+    "licence": "Silver",
     "expire": "2027/03/02",
     "max_devices": "all",
-    "allowed_devices": [41215e84d32b36e1]
+    "allowed_devices": [2cc1a7bf9e02c656]
   },
   {
     "licence": "RAiDER",
