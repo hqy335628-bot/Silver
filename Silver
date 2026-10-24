@@ -1,14 +1,11 @@
 
 [
-  [
+[
   {
-    "key": "SILVER-12345",
-    "device_id": "2CC1A7BF9E02C656"
-  },
-  {
-    "key": "SILVER-67890",
-    "device_id": "DEVICE_ID_USER_2"
+    "licence": "SILVER-98LG-4WTB-JX77-Z52V",
+    "expire": "2027/12/31",
+    "max_devices": "all",
+    "allowed_devices": [2cc1a7bf9e02c656]
   }
-]8f2a1b90c34e5678", "7a1b90c34e567812"]
-  }
+]
 ]
