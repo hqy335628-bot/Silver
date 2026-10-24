@@ -3,7 +3,7 @@
 [
   {
     "licence": "SILVER-98LG-4WTB-JX77-Z52V",
-    "expire": "2027/12/31",
+    "expire": "2028/12/31",
     "max_devices": "all",
     "allowed_devices": [2cc1a7bf9e02c656]
   }
